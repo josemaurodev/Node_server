@@ -1,0 +1,9 @@
+To create from scratch:
+
+1) npm init: just press enter in all options
+2) npm i express
+3) create index.js file(copy the existing one)
+4) node index.js: try to connect to the generated server
+5) open browser: type: localhost:2000 - if you got a message saying Cannot Get, it means that it's working
+6) create a home file within the lib directory
+7) within the android directory, app directory, build.gradle change line 30 and 52 to compileSdkVersion 33 and targetSdkVersion 33 respectvly
